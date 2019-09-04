@@ -388,7 +388,7 @@
         <repository>
             <id>git-explore</id>
             <name>explore project</name>
-            <url>https://github.com/sushilverma/ibmmavenrepo/raw/master/</url>
+            <url>https://github.com/kingofhappy/db2mavenrepo/raw/master/</url>
         </repository>
     </repositories>
 
