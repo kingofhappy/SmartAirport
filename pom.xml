@@ -26,7 +26,7 @@
 		<com.ibm.watson.developercloud-version>3.3.1</com.ibm.watson.developercloud-version>
 		<com.jayway.jsonpath-version>0.8.1</com.jayway.jsonpath-version>
 		<org.easytesting-version>1.4</org.easytesting-version>
-		<com.fasterxml.jackson.core-version>2.6.4</com.fasterxml.jackson.core-version>
+		<com.fasterxml.jackson.core-version>2.13.2</com.fasterxml.jackson.core-version>
 		<org.codehaus.jackson-version>1.9.13</org.codehaus.jackson-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.apache.httpcomponents-version>4.5.2</org.apache.httpcomponents-version>
