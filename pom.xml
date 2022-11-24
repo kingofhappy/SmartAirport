@@ -32,7 +32,7 @@
 		<org.apache.httpcomponents-version>4.5.2</org.apache.httpcomponents-version>
 		<apachetiles.version>3.0.5</apachetiles.version>
 		<spring.cloud.connectors.version>1.2.2.RELEASE</spring.cloud.connectors.version>
-		<hibernate.version>4.3.8.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<com.ibm.db2-version>1.4.2</com.ibm.db2-version>
 	</properties>
 
